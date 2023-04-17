@@ -1,12 +1,12 @@
 .cabecalho
 {
-    background-color:aqua
+    background-color:plum
 }
 h1 {
     text-align:center;
 }
 h2 {
-    background-color: blueviolet;
+    background-color: rgb(226, 43, 171);
 }
 h3{
     padding-left: 10%;
